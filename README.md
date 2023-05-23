@@ -1,4 +1,4 @@
-![Header](./[[Your header image](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)])
+[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)]
 <h1 align="center">Hi 👋, I'm Aniket Pathak</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
